@@ -1,0 +1,2 @@
+INSERT INTO CALENDAR(Id, Name, EventCount)
+VALUES(@Id, @Name, @EventCount);

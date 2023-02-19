@@ -1,0 +1,2 @@
+INSERT INTO COMPANY(Id, Name, Industry, Location)
+VALUES(@Id, @Name, @Industry, @Location);

@@ -1,0 +1,2 @@
+INSERT INTO ADDRESS(Id, Address, Number)
+VALUES(@Id, @Address, @Number);

@@ -1,0 +1,1 @@
+SELECT TOP 1 Id, FirstName, LastName, LoginName, Type, Level FROM FOUNDER;

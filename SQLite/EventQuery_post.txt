@@ -1,0 +1,2 @@
+INSERT INTO EVENT (EventId, CalendarId, EventDate, StartTime, EndTime, CreatedAt, UpdatedAt, Status) 
+VALUES(@EventId, @CalendarId, @EventDate, @StartTime, @EndTime, @CreatedAt, @UpdatedAt, @Status);

@@ -1,0 +1,2 @@
+INSERT INTO ADDRESS(Id, Street, Number, City, Country, PostCode)
+VALUES(@Id, @Street, @Number, @City, @Country, @PostCode);

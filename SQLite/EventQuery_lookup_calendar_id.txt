@@ -1,0 +1,1 @@
+SELECT (EventId, CalendarId, EventDate, StartTime, EndTime, CreatedAt, UpdatedAt, Status) FROM EVENT WHERE CalendarId = @CalendarId;

@@ -1,0 +1,2 @@
+INSERT INTO FOUNDER(Id, FirstName, LastName, LoginName, Level, Type)
+VALUES (@Id, @FirstName, @LastName, @LoginName, @Level, @Type);

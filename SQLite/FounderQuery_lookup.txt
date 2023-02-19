@@ -1,0 +1,1 @@
+SELECT Id, FirstName, LastName, LoginName, Type, Level FROM FOUNDER WHERE Id = @Id;

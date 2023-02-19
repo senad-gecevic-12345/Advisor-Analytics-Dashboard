@@ -1,0 +1,1 @@
+SELECT ExtensionNumber, CustomTag, PhoneNumber FROM DID WHERE ExtensionNumber = @ExtensionNumber;

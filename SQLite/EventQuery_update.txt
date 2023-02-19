@@ -1,0 +1,2 @@
+INSERT OR REPLACE INTO EVENT(EventId, CalendarId, EventDate, StartTime, EndTime, CreatedAt, UpdatedAt, Status) WHERE EventId = @EventId
+VALUES(@EventId, @CalendarId, @EventDate, @StartTime, @EndTime, @CreatedAt, @UpdatedAt, @Status);
